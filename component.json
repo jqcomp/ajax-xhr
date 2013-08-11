@@ -7,10 +7,10 @@
     "type": "git",
     "url": "https://github.com/jquery/jquery.git"
   },
-  "version": "2.0.1",
+  "version": "2.0.2",
   "dependencies": {
-    "jqcomp/core": "2.0.1",
-    "jqcomp/ajax": "2.0.1"
+    "jqcomp/core": "2.0.2",
+    "jqcomp/ajax": "2.0.2"
   },
   "main": "index.js",
   "scripts": [
