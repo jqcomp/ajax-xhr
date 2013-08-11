@@ -1,0 +1,19 @@
+{
+  "name": "jqcomp/ajax-xhr",
+  "description": "JavaScript library for DOM operations",
+  "homepage": "http://jquery.com",
+  "author": "jQuery Foundation and other contributors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jquery/jquery.git"
+  },
+  "version": "1.8.1",
+  "dependencies": {
+    "jqcomp/core": "1.8.1",
+    "jqcomp/ajax": "1.8.1"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
